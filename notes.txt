@@ -23,3 +23,5 @@ git log is how you check out all of your commits
 git remote add origin git@github.com:Aemrox/git-lecture.git is how you create
 a new remote repository when you need to create it for the first timed
 git push -u origin master to push something to the remote directory
+
+This is me trying to update the remote
