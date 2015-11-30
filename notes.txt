@@ -24,8 +24,11 @@ git remote add origin git@github.com:Aemrox/git-lecture.git is how you create
 a new remote repository when you need to create it for the first timed
 git push -u origin master to push something to the remote directory
 
-This is me trying to update the remote
 
 git pull - only pulling will pull the code down but NOT merge it
+IF you haven't tracked it
 
-mre updates to the remote
+-u sets up tracking so you can save yourself some code
+
+fetch vs pull - pull updates the files in your local repo, fetch just DOWNLOADS
+the pulled files without merging them
