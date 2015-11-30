@@ -14,3 +14,12 @@
 # git reset HEAD to unstage deleted stuff
 NOW I'm taking notes through the terminal
 WOAH
+
+When you stage a change for commit, you put the people in the frame,
+commit is taking the picture
+
+git log is how you check out all of your commits
+
+git remote add origin git@github.com:Aemrox/git-lecture.git is how you create
+a new remote repository when you need to create it for the first timed
+git push -u origin master to push something to the remote directory
